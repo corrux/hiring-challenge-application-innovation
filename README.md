@@ -1,4 +1,4 @@
-# corrux Application &amp; Innovation Team Hiring Challenge
+# corrux Data Innovation Team Hiring Challenge
 First, thanks for your interest in corrux! We put together this coding challenge to give you a chance to show us your
 skills by developing an algorithm that works with geotemporal data.
 
