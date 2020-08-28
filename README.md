@@ -1,6 +1,15 @@
 # corrux Data Innovation Team Hiring Challenge
 First, thanks for your interest in corrux! We put together this coding challenge to give you a chance to show us your
-skills by developing an algorithm that works with geotemporal data.
+skills by developing an algorithm that works with geotemporal data. You may use any
+programming language and any libraries to solve this task. We recommend that you make
+use of a geospatial library for the programming language you choose. We have collected
+a list of a few library choices to get you started:
+
+- [Shapely (Python)](https://shapely.readthedocs.io/en/latest/manual.html)
+- [NetTopologySuite (C#)](http://nettopologysuite.github.io/NetTopologySuite/index.html)
+- [JTS Topolgy Suite (Java)](https://locationtech.github.io/jts/)
+- [geo (Rust)](https://docs.rs/geo/0.14.2/geo/)
+- [GEOS (C/C++)](https://trac.osgeo.org/geos)
 
 ## Problem description
 In this problem we make use of two concepts: *Locations* and *Sites*. A *Location* is the combination of a point in
