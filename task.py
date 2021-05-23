@@ -91,7 +91,7 @@ def find_added_and_removed_locations(
                         removed_location_xs.append(point.x)
                         removed_location_ys.append(point.y)
             else:
-                return "Invalid locations file"
+                continue
     # writes to json file in a single write
     write_to_file(no_longer_contained_locations, 'removed_locations.json')
     write_to_file(newly_added_locations, 'added_locations.json')
